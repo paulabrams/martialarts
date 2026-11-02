@@ -1,0 +1,649 @@
+{
+  "title": "Secondo Assalto di Spada da Due Mani",
+  "poster_title": "SECONDO ASSALTO",
+  "poster_subtitle": "di spada da due mani · gioco largo e stretto",
+  "citation": "Achille Marozzo, Opera Nova · Bologna, 1536 · Libro III, cap. 163",
+  "subtitle": "Achille Marozzo, Opera Nova (Bologna, 1536), Book III, chapter 163 · parts V–X interpolated from the text",
+  "refrain": "There is no single refrain in the second assalto: most parts close by retreating into guardia d'intrare in largo passo or a porta di ferro.",
+  "guards": {
+    "testa": [
+      "Guardia di testa",
+      "high"
+    ],
+    "alta": [
+      "Guardia alta",
+      "high"
+    ],
+    "pdfa": [
+      "Porta di ferro alta",
+      "pdf"
+    ],
+    "pdfl": [
+      "Porta di ferro larga",
+      "pdf"
+    ],
+    "pdfst": [
+      "Porta di ferro stretta",
+      "pdf"
+    ],
+    "pdfs": [
+      "Cinghiara porta di ferro stretta",
+      "pdf"
+    ],
+    "cpdf": [
+      "Cinghiara porta di ferro",
+      "pdf"
+    ],
+    "cpdfa": [
+      "Cinghiara porta di ferro alta",
+      "pdf"
+    ],
+    "cld": [
+      "Coda longa e distesa",
+      "high"
+    ],
+    "cll": [
+      "Coda longa e larga",
+      "high"
+    ],
+    "cls": [
+      "Coda longa e stretta",
+      "high"
+    ],
+    "croce": [
+      "Guardia di croce",
+      "high"
+    ],
+    "faccia": [
+      "Guardia di faccia",
+      "high"
+    ],
+    "gombito": [
+      "Guardia di gombito",
+      "high"
+    ],
+    "becpos": [
+      "Becca possa",
+      "low"
+    ],
+    "spalla": [
+      "Guardia di spalla",
+      "high"
+    ],
+    "gil": [
+      "Guardia d'intrare in largo passo",
+      "intrare"
+    ],
+    "gin": [
+      "Guardia d'intrare (non in largo passo)",
+      "intrare"
+    ]
+  },
+  "parts": [
+    {
+      "n": 1,
+      "title": "Prima parte",
+      "source": "filmed",
+      "note": "Three cuts at the half sword: the hand slides up past the lugs for very fast cuts; the alternative is short half cuts.",
+      "steps": [
+        "testa",
+        [
+          "Falso dritto and falso manco together",
+          "mandritto tondo to the leg",
+          "right foot forward"
+        ],
+        "gin",
+        [
+          "He attacks head or leg: parry true edge",
+          "three cuts at the half sword: feint roverso, mandritto ridoppio, roverso",
+          "left foot to his right side, right to his left, right follows behind"
+        ],
+        [
+          "Mandritto tondo parry",
+          "retreating"
+        ],
+        "gil"
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Seconda parte",
+      "source": "filmed",
+      "note": "Two readings of section two: the sword's first circle goes to the left, or to the right.",
+      "steps": [
+        "gil",
+        [
+          "Mandritto tondo to the leg",
+          "rising thrust to his right temple, hands crossed over his sword",
+          "right foot forward, off the line to the left, right foot again"
+        ],
+        [
+          "He sets it aside: mandritto tondo to his left temple",
+          "right foot to the right, left crosses behind"
+        ],
+        [
+          "He answers: parry with a tramazzone",
+          "left foot behind in a traverse, right follows crossed"
+        ],
+        "pdfs",
+        [
+          "He answers: parry",
+          "right foot back a wide step"
+        ],
+        "gil",
+        [
+          "Roverso"
+        ],
+        "cld",
+        [
+          "Return to croce",
+          "right foot follows behind the left"
+        ],
+        "croce",
+        [
+          "Uncross the arms",
+          "left foot behind the right"
+        ],
+        "pdfa"
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Terza parte",
+      "source": "filmed",
+      "note": "Two endings after the grab: the pommel to the face, or a cut to the head.",
+      "steps": [
+        "pdfa",
+        [
+          "Falso manco",
+          "left foot a wide traverse to his right side"
+        ],
+        "gil",
+        [
+          "Ponta incrociata, your false edge on his true edge",
+          "gran passo forward with the right foot"
+        ],
+        [
+          "He raises to parry: duck under his sword, edge under his right arm (mandritto ridoppio)",
+          "gran passo to his right side"
+        ],
+        [
+          "Presa: left hand on his right arm",
+          "pommel to the face, or a cut to the head"
+        ],
+        [
+          "Fendente to the head",
+          "left foot behind the right"
+        ],
+        "pdfl"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Quarta parte",
+      "source": "filmed",
+      "note": "Botta doppia: Marozzo allows the mandritto to the leg or the head; this reading cuts to the leg and keeps the original footwork.",
+      "steps": [
+        "pdfl",
+        [
+          "Botta doppia: falso strongly to his sword",
+          "mandritto tondo to the leg",
+          "left foot back, then right foot strongly forward"
+        ],
+        "gombito",
+        [
+          "Roverso sgualembrato",
+          "left foot strongly to his right side"
+        ],
+        "croce",
+        [
+          "He attacks the head: parry with the falso",
+          "left foot strongly behind the right"
+        ],
+        "becpos",
+        [
+          "Falso manco",
+          "right foot forward"
+        ],
+        "pdfa"
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Quinta parte",
+      "source": "text",
+      "steps": [
+        "pdfa",
+        [
+          "Embellish: right turn, left turn",
+          "left foot a wide step to his right side"
+        ],
+        "gil",
+        [
+          "Roverso sgualembrato",
+          "right foot follows behind"
+        ],
+        "cld",
+        [
+          "He answers: fugge e cruove, back to coda longa e distesa"
+        ],
+        [
+          "Gioco stretto: rising falso dritto to the hand",
+          "feet still"
+        ],
+        [
+          "Feint another falso, ponta in falso impuntata over his sword",
+          "slicing cut to the face, or a roverso to his right leg",
+          "gran passo forward with the left foot"
+        ],
+        [
+          "He attacks: parry",
+          "right foot to the left"
+        ],
+        "gin",
+        [
+          "Roverso impuntato, stopping short of croce",
+          "left foot strongly to his right side"
+        ],
+        [
+          "Fendente dritto",
+          "left foot a gran passo behind the right"
+        ],
+        "pdfl"
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Sesta parte",
+      "source": "text",
+      "steps": [
+        "pdfl",
+        [
+          "Through guardia di consentire",
+          "right foot behind the left"
+        ],
+        "testa",
+        [
+          "Ponta incrociata outside his right side, true edge on his false",
+          "left foot strongly to his right side, right follows"
+        ],
+        [
+          "He uncovers his left: presa, left arm round his sword, turn the hand onto his hilt"
+        ],
+        [
+          "If he avoids it: two mandritti tondi, face then leg",
+          "right foot to his left side, left behind a little crossed, right forward"
+        ],
+        [
+          "Defend",
+          "right foot behind in a wide step"
+        ],
+        "gil",
+        [
+          "Roverso trivellato",
+          "right foot forward, then back to the wide step"
+        ],
+        "gil"
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Settima parte",
+      "source": "text",
+      "steps": [
+        "gil",
+        [
+          "Embellish: roverso",
+          "left foot to the right"
+        ],
+        "testa",
+        [
+          "In one tempo"
+        ],
+        "croce",
+        [
+          "Left turn",
+          "right foot escaping"
+        ],
+        "gil",
+        [
+          "Falso manco",
+          "right foot escaping"
+        ],
+        "alta",
+        [
+          "Immediately"
+        ],
+        "testa",
+        [
+          "Falso dritto"
+        ],
+        "gil",
+        [
+          "Mandritto tondo to the leg, rising thrust over his sword",
+          "left foot gran passo to his right, right foot forward"
+        ],
+        [
+          "Mandritto tondo",
+          "left foot to the right, a little crossed"
+        ],
+        "faccia",
+        [
+          "Left hand at the half sword: force his sword down, roverso to face or neck",
+          "left foot strongly behind the right"
+        ],
+        [
+          "Take his sword with the left hand, back to faccia, mandritto tondo to the leg"
+        ],
+        "pdfs",
+        [
+          "Or a tramazzoncello"
+        ],
+        "pdfst",
+        [
+          "He attacks: defend with a thrust, kick to the stomach, roverso di mezza spada",
+          "left foot steps, right foot kicks"
+        ],
+        "cld",
+        [
+          "Roverso trivellato",
+          "retreating"
+        ],
+        "gil"
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Ottava parte",
+      "source": "text",
+      "steps": [
+        "gil",
+        [
+          "Into the wide tail"
+        ],
+        "cll",
+        [
+          "Falso, tramazzone through becca possa, ridoppio, mandritto tondo, all together"
+        ],
+        [
+          "He retreats: roverso trivellato",
+          "enter in a wide step"
+        ],
+        "gil",
+        [
+          "Falsigiare, back to testa; he attacks: mezzo tempo, roverso"
+        ],
+        "testa",
+        [
+          "Settle"
+        ],
+        "spalla",
+        [
+          "Mandritto"
+        ],
+        "faccia",
+        [
+          "Tramazzoncello dritto"
+        ],
+        "pdfst",
+        [
+          "He attacks: tramazzoncello di roverso",
+          "right foot lifted over the left, then back in place"
+        ],
+        "cls",
+        [
+          "He attacks: ponta sopra mano to the face",
+          "right foot retreating"
+        ],
+        [
+          "Roverso trivellato, entering with a ponta impuntata",
+          "cross the right foot"
+        ],
+        "pdfl",
+        [
+          "He attacks: parry with the hilt, mandritto to the leg or slice to the face",
+          "if he thrusts: under his sword, ponta in falso to the face",
+          "right foot traverses right, retreat twice"
+        ],
+        "pdfst"
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Nona parte",
+      "source": "text",
+      "steps": [
+        "pdfst",
+        [
+          "Raise the sword, left hand strong above",
+          "right foot to the left"
+        ],
+        "gin",
+        [
+          "Feint roverso, mandritto tondo to the leg",
+          "left foot to his right, right foot to his left"
+        ],
+        [
+          "Rising falso manco to the hands",
+          "right foot back a wide step"
+        ],
+        [
+          "Embellish: right turn, left turn",
+          "left foot traverses wide to his right"
+        ],
+        "gil",
+        [
+          "Roverso"
+        ],
+        "cld",
+        [
+          "Rise",
+          "right foot behind the left"
+        ],
+        "croce",
+        [
+          "Feint tramazzone, mandritto tondo to the leg, mandritto",
+          "right foot back, in, and back to the wide step"
+        ],
+        "gil",
+        [
+          "Falso manco"
+        ],
+        "cpdfa",
+        [
+          "He attacks: beat with the false edge, falso dritto",
+          "right foot to his left side"
+        ],
+        "gin",
+        [
+          "Retreat",
+          "right foot, then left"
+        ],
+        "testa",
+        [
+          "Mandritto tondo",
+          "right foot to his left, left crosses behind"
+        ],
+        "faccia",
+        [
+          "Feint to the head, mandritto to the leg",
+          "left foot traverses to his right"
+        ],
+        "cpdf",
+        [
+          "Tramazzoncello"
+        ],
+        "pdfl",
+        [
+          "Rising falso"
+        ],
+        "alta",
+        [
+          "Mandritto",
+          "right foot retreating"
+        ],
+        "pdfst",
+        [
+          "Feint mezzo mandritto to the face; he raises: roverso trivellato, ponta impuntata",
+          "right foot to his left, left traverses, right strongly forward"
+        ],
+        "gil",
+        [
+          "Let it fall, feet still",
+          "left foot behind the right"
+        ],
+        "pdfa"
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Decima e ultima parte",
+      "source": "text",
+      "intro": "From guardia d'intrare in largo passo against his porta di ferro alta, seven ways in:",
+      "options": [
+        {
+          "label": "a",
+          "steps": [
+            "gil",
+            [
+              "Falso manco impontato",
+              "right foot strongly forward"
+            ],
+            [
+              "He rises false to false: cross, point to the right of his face",
+              "left foot to his left side"
+            ],
+            [
+              "He covers: two mandritti",
+              "right foot strongly to his left side"
+            ]
+          ]
+        },
+        {
+          "label": "b",
+          "steps": [
+            "gil",
+            [
+              "Thrust from below to the right of his face",
+              "right foot"
+            ],
+            [
+              "His falso meets yours: mandritto tondo intrante",
+              "left foot forward"
+            ],
+            [
+              "Presa, or roverso di mezza spada; if he retreats, mandritto to the leg",
+              "right foot forward"
+            ]
+          ]
+        },
+        {
+          "label": "c",
+          "steps": [
+            "gil",
+            [
+              "Feint falso manco impontato, feint thrust to his left",
+              "true edge to true edge"
+            ],
+            [
+              "He covers: ridoppio mandritto to the arms, knock his sword with the lugs",
+              "left foot strongly toward him"
+            ],
+            [
+              "Roverso de squilo, turning your back",
+              "right foot strongly behind the left"
+            ]
+          ]
+        },
+        {
+          "label": "d",
+          "steps": [
+            "gil",
+            [
+              "Mandritto"
+            ],
+            "cpdf",
+            [
+              "Becca possa to the right of his face; he rises: ridoppio roverso, presa if he parries",
+              "right foot to the left, step with the left"
+            ]
+          ]
+        },
+        {
+          "label": "e",
+          "steps": [
+            "gil",
+            [
+              "Falso manco striking his sword hard, roverso trivellato",
+              "step strongly"
+            ],
+            "gil"
+          ]
+        },
+        {
+          "label": "f",
+          "steps": [
+            "gil",
+            [
+              "Falso manco, hitting his sword",
+              "right foot strongly forward"
+            ],
+            "faccia",
+            [
+              "To the face, two mandritti",
+              "left foot crossed back"
+            ],
+            "gil"
+          ]
+        },
+        {
+          "label": "g",
+          "steps": [
+            "gil",
+            [
+              "Falso filo manco"
+            ],
+            "alta",
+            [
+              "Roverso",
+              "right foot, then left"
+            ],
+            "cld"
+          ]
+        }
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "parts": [
+        1,
+        4
+      ],
+      "suffix": "I-IV",
+      "label": "parti I–IV",
+      "credit_line": ""
+    },
+    {
+      "parts": [
+        5,
+        8
+      ],
+      "suffix": "V-VIII",
+      "label": "parti V–VIII",
+      "credit_line": "From Marozzo's text"
+    },
+    {
+      "parts": [
+        9,
+        10
+      ],
+      "suffix": "IX-X",
+      "label": "parti IX–X",
+      "credit_line": "From Marozzo's text"
+    }
+  ],
+  "flow_wrap": 40,
+  "flow_width": 4100,
+  "flow_credit": "Parts V–X from Marozzo's text"
+}

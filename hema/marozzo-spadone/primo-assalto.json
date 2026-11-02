@@ -1,0 +1,399 @@
+{
+  "title": "Primo Assalto di Spada da Due Mani",
+  "poster_title": "PRIMO ASSALTO",
+  "poster_subtitle": "di spada da due mani",
+  "citation": "Achille Marozzo, Opera Nova · Bologna, 1536 · Libro III, cap. 161",
+  "subtitle": "Achille Marozzo, Opera Nova (Bologna, 1536), Book III, chapter 161",
+  "refrain": "The closing refrain: roverso fendente into coda longa e alta; gather the left foot and parry in guardia di croce, point to the face; right foot two spans back, rising falso to the hands, settle in porta di ferro alta.",
+  "guards": {
+    "testa": [
+      "Guardia di testa",
+      "high"
+    ],
+    "pdfa": [
+      "Porta di ferro alta",
+      "pdf"
+    ],
+    "pdfl": [
+      "Porta di ferro larga",
+      "pdf"
+    ],
+    "pdfs": [
+      "Cinghiara porta di ferro stretta",
+      "pdf"
+    ],
+    "cpdf": [
+      "Cinghiara porta di ferro",
+      "pdf"
+    ],
+    "cpdfa": [
+      "Cinghiara porta di ferro alta",
+      "pdf"
+    ],
+    "cla": [
+      "Coda longa e alta",
+      "high"
+    ],
+    "cld": [
+      "Coda longa e distesa",
+      "high"
+    ],
+    "croce": [
+      "Guardia di croce",
+      "high"
+    ],
+    "faccia": [
+      "Guardia di faccia",
+      "high"
+    ],
+    "gil": [
+      "Guardia d'intrare in largo passo",
+      "intrare"
+    ],
+    "gin": [
+      "Guardia d'intrare (non in largo passo)",
+      "intrare"
+    ],
+    "spalla": [
+      "Guardia di spalla",
+      "high"
+    ],
+    "piede": [
+      "Guardia di piede",
+      "low"
+    ]
+  },
+  "parts": [
+    {
+      "n": 1,
+      "title": "Prima parte",
+      "steps": [
+        "testa",
+        [
+          "Falso impuntato outside his sword",
+          "mandritto to the head with a tramazzone",
+          "step left, then right"
+        ],
+        "pdfl",
+        [
+          "Present the point to his face",
+          "right foot to his right side"
+        ],
+        "faccia",
+        [
+          "He takes the bait: parry",
+          "roverso fendente to the head",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Cross the arms, point to the face",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso dritto to the hands",
+          "right foot two spans back"
+        ],
+        "pdfa"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 2,
+      "title": "Seconda parte",
+      "steps": [
+        "pdfa",
+        [
+          "Beat his falso thrust out with the false edge",
+          "crossed thrust to the face",
+          "left foot strongly forward"
+        ],
+        "gil",
+        [
+          "He takes the bait: rising falso to his right hand",
+          "then a tramazzone",
+          "right foot to his left side"
+        ],
+        "cpdf",
+        [
+          "He attacks: parry, roverso fendente",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Cross the arms, point to the face",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso to the hands",
+          "right foot two spans back"
+        ],
+        "pdfl"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 3,
+      "title": "Terza parte",
+      "steps": [
+        "pdfl",
+        [
+          "Falso strongly to his sword",
+          "mandritto tondo to the legs",
+          "point to his face",
+          "left foot to the right, right foot forward, then drawn in to the left"
+        ],
+        "faccia",
+        [
+          "He takes the bait: feign the parry, void",
+          "roverso fendente to the head",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Defend",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso dritto to the hands",
+          "right foot two spans back"
+        ],
+        "pdfa"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 4,
+      "title": "Quarta parte",
+      "steps": [
+        "pdfa",
+        [
+          "Tramazzoncello",
+          "left foot to his right side"
+        ],
+        "pdfs",
+        [
+          "Thrust in falsata to his left temple",
+          "mandritto tondo to the legs"
+        ],
+        "gil",
+        [
+          "Crossed thrust inside to the face",
+          "half mandritto to his right leg",
+          "right foot forward"
+        ],
+        [
+          "Parry with the true edge",
+          "right foot to the left"
+        ],
+        "faccia",
+        [
+          "Roverso fendente",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Defend",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso dritto to the hands",
+          "right foot two spans back"
+        ],
+        "pdfa"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 5,
+      "title": "Quinta parte",
+      "steps": [
+        "pdfa",
+        [
+          "Tramazzone beating his sword, thrust over it",
+          "roverso ridoppio to the arms (or a presa)",
+          "mandritto to the head with a tramazzone"
+        ],
+        "pdfl",
+        [
+          "Parry false edge rising",
+          "roverso sgualembrato to his right temple",
+          "step strongly to his right side"
+        ],
+        "cld",
+        [
+          "Fugge e cruove",
+          "retreating"
+        ],
+        "pdfs",
+        [
+          "Embellish: right turn, left turn",
+          "left foot a large step to his right"
+        ],
+        "gil"
+      ],
+      "source": "filmed"
+    },
+    {
+      "n": 6,
+      "title": "Sesta parte",
+      "steps": [
+        "gil",
+        [
+          "Falso manco",
+          "feign a tramazzone high",
+          "right foot to the right, then left foot to his right side"
+        ],
+        [
+          "Roverso to the leg"
+        ],
+        "cld",
+        [
+          "Crossed thrust above the hand to the face",
+          "half turn of the hands",
+          "left foot behind the right"
+        ],
+        "pdfa"
+      ],
+      "source": "filmed"
+    },
+    {
+      "n": 7,
+      "title": "Settima parte",
+      "steps": [
+        "pdfa",
+        [
+          "Crossed thrust outside his sword to the temple",
+          "rising falso dritto to the hands",
+          "left foot to his right side, then right foot to his left side"
+        ],
+        [
+          "Tramazzone",
+          "left foot to his right side"
+        ],
+        "pdfs",
+        [
+          "Falso manco, withdraw the arms",
+          "left foot behind the right"
+        ],
+        "pdfa"
+      ],
+      "source": "filmed"
+    },
+    {
+      "n": 8,
+      "title": "Ottava parte",
+      "steps": [
+        "pdfa",
+        [
+          "Rising falso manco strikes his sword",
+          "two mandritti tondi: head, then leg",
+          "left foot to the right, right foot forward"
+        ],
+        "gin",
+        [
+          "Roverso fendente to the head",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Thrust to the face",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso to the forward leg",
+          "right foot two spans back"
+        ],
+        "pdfa"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 9,
+      "title": "Nona parte",
+      "steps": [
+        "pdfa",
+        [
+          "Crossed thrust outside his sword to the face",
+          "uncross the arms over his sword",
+          "dritto traversato across the throat, with a tramazzone",
+          "left foot to his right side, right foot forward, then a great step back"
+        ],
+        "pdfs",
+        [
+          "Beat his blow out with the false edge",
+          "mandritto sgualembrato to the face, tramazzone",
+          "right foot forward"
+        ],
+        [
+          "Parry",
+          "right foot back to the left"
+        ],
+        "faccia",
+        [
+          "Roverso fendente to the head",
+          "left foot to his right side"
+        ],
+        "cla",
+        [
+          "Thrust to the face",
+          "gather left foot"
+        ],
+        "croce",
+        [
+          "Rising falso to the leg or hands",
+          "right foot two spans back"
+        ],
+        "pdfa"
+      ],
+      "refrain": "cla",
+      "source": "filmed"
+    },
+    {
+      "n": 10,
+      "title": "Decima e ultima parte",
+      "steps": [
+        "pdfa",
+        [
+          "Embellish via guardia di consentire",
+          "right turn, left turn"
+        ],
+        "gil",
+        [
+          "Crossed thrust inside, false edge to his true",
+          "half mandritto to his right leg",
+          "roverso sgualembrato"
+        ],
+        [
+          "Fugge e cruove"
+        ],
+        "cpdfa",
+        [
+          "Brandish the sword",
+          "left foot behind the right"
+        ],
+        "testa",
+        [
+          "Mandritto"
+        ],
+        "spalla",
+        [
+          "Left turn, great step",
+          "point to the ground, left hand on the pommel, right hand on the hip"
+        ],
+        "piede"
+      ],
+      "source": "filmed"
+    }
+  ]
+}
