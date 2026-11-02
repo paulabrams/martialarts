@@ -234,7 +234,7 @@
         [
           "Feint another falso, ponta in falso impuntata over his sword",
           "slicing cut to the face, or a roverso to his right leg",
-          "gran passo forward with the left foot"
+          "gran passo forward with the right foot"
         ],
         [
           "He attacks: parry",
@@ -263,6 +263,10 @@
           "right foot behind the left"
         ],
         "testa",
+        [
+          "Float the play until he is in porta di ferro alta; take the same guard"
+        ],
+        "pdfa",
         [
           "Ponta incrociata outside his right side, true edge on his false",
           "left foot strongly to his right side, right follows"
@@ -330,24 +334,25 @@
         "faccia",
         [
           "Left hand at the half sword: force his sword down, roverso to face or neck",
-          "left foot strongly behind the right"
+          "left foot forward to force his sword down, then strongly behind the right as you slice"
         ],
         [
-          "Take his sword with the left hand, back to faccia, mandritto tondo to the leg"
+          "Left hand back on your own grip, back to faccia; if he does not wait, mandritto tondo to the leg"
         ],
         "pdfs",
         [
-          "Or a tramazzoncello"
+          "Or a tramazzoncello",
+          "right foot forward"
         ],
         "pdfst",
         [
           "He attacks: defend with a thrust, kick to the stomach, roverso di mezza spada",
-          "left foot steps, right foot kicks"
+          "left foot steps, right foot kicks, then right foot back"
         ],
         "cld",
         [
-          "Roverso trivellato",
-          "retreating"
+          "Retreat, mandritto tondo, roverso trivellato",
+          "left foot then right foot back"
         ],
         "gil"
       ]
@@ -366,7 +371,7 @@
           "Falso, tramazzone through becca possa, ridoppio, mandritto tondo, all together"
         ],
         [
-          "He retreats: roverso trivellato",
+          "He answers: retreat twice, roverso trivellato",
           "enter in a wide step"
         ],
         "gil",
@@ -375,7 +380,7 @@
         ],
         "testa",
         [
-          "Settle"
+          "Drop and rise"
         ],
         "spalla",
         [
@@ -397,7 +402,7 @@
         ],
         [
           "Roverso trivellato, entering with a ponta impuntata",
-          "cross the right foot"
+          "right foot steps forward again"
         ],
         "pdfl",
         [
@@ -442,8 +447,8 @@
         ],
         "croce",
         [
-          "Feint tramazzone, mandritto tondo to the leg, mandritto",
-          "right foot back, in, and back to the wide step"
+          "Feint tramazzone, mandritto tondo to the leg",
+          "right foot forward, then back to the wide step"
         ],
         "gil",
         [
@@ -475,22 +480,22 @@
         ],
         "pdfl",
         [
-          "Rising falso"
+          "Rising falso",
+          "right foot retreating"
         ],
         "alta",
         [
-          "Mandritto",
-          "right foot retreating"
+          "Mandritto"
         ],
-        "pdfst",
+        "pdfs",
         [
           "Feint mezzo mandritto to the face; he raises: roverso trivellato, ponta impuntata",
           "right foot to his left, left traverses, right strongly forward"
         ],
-        "gil",
+        "gin",
         [
-          "Let it fall, feet still",
-          "left foot behind the right"
+          "Let it fall",
+          "only the left foot moves, back behind the right"
         ],
         "pdfa"
       ]
@@ -550,7 +555,7 @@
               "left foot strongly toward him"
             ],
             [
-              "Roverso de squilo, turning your back",
+              "Roverso de squilo, almost turning your back",
               "right foot strongly behind the left"
             ]
           ]
@@ -564,7 +569,7 @@
             ],
             "cpdf",
             [
-              "Becca possa to the right of his face; he rises: ridoppio roverso, presa if he parries",
+              "Becca possa to the right of his face; he rises: ridoppio roverso, presa if you see fit",
               "right foot to the left, step with the left"
             ]
           ]
@@ -575,7 +580,7 @@
             "gil",
             [
               "Falso manco striking his sword hard, roverso trivellato",
-              "step strongly"
+              "right foot strongly forward"
             ],
             "gil"
           ]
