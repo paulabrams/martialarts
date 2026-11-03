@@ -109,7 +109,6 @@
       "n": 2,
       "title": "Seconda parte",
       "source": "filmed",
-      "note": "Two readings of section two: the sword's first circle goes to the left, or to the right.",
       "steps": [
         "gil",
         [
@@ -126,6 +125,11 @@
           "left foot behind in a traverse, right follows crossed"
         ],
         "pdfs",
+        [
+          "Tramazzoncello",
+          "right foot forward"
+        ],
+        "pdfst",
         [
           "He answers: parry",
           "right foot back a wide step"
