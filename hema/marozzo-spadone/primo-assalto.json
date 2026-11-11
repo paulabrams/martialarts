@@ -69,6 +69,14 @@
     "pdfst": [
       "Porta di ferro stretta",
       "pdf"
+    ],
+    "cpdfl": [
+      "Cinghiara porta di ferro larga",
+      "pdf"
+    ],
+    "beccesa": [
+      "Becca cesa",
+      "high"
     ]
   },
   "parts": [
@@ -301,22 +309,49 @@
       "steps": [
         "gil",
         [
-          "Falso manco",
-          "feign a tramazzone high",
-          "right foot steps strongly forward to the right, then left foot steps toward his right side"
+          "Falso manco against his sword",
+          "right foot steps strongly forward to the right"
         ],
+        "beccesa",
         [
-          "Roverso to the leg"
+          "Feign a tramazzone to his head",
+          "left foot steps toward his right side"
+        ],
+        "cpdfa",
+        [
+          "Let a roverso drop to his leg",
+          "right foot steps back"
+        ],
+        "cpdfl",
+        [
+          "Carry it through"
         ],
         "cld",
         [
-          "Crossed thrust above the hand to the face",
-          "half turn of the hands",
+          "Ponta incrosiata above the hand to his face",
           "left foot steps behind the right"
+        ],
+        "croce",
+        [
+          "Half turn of the hands"
         ],
         "pdfa"
       ],
-      "source": "filmed"
+      "source": "filmed",
+      "marks": {
+        "add": [
+          [
+            "vista",
+            5,
+            7
+          ],
+          [
+            "thrust",
+            11,
+            11
+          ]
+        ]
+      }
     },
     {
       "n": 7,
