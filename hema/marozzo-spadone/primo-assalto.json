@@ -15,6 +15,9 @@
     "cla": ["Coda longa e alta", "high"],
     "cld": ["Coda longa e distesa", "high"],
     "croce": ["Guardia di croce", "high"],
+    "consentire": ["Hands high, point low", "high"],
+    "crocer": ["Guardia di croce", "high"],
+    "testar": ["Guardia di testa", "high"],
     "faccia": ["Guardia di faccia", "high"],
     "gil": ["Guardia d'intrare in largo passo", "intrare"],
     "gin": ["Guardia d'intrare (non in largo passo)", "intrare"],
@@ -140,7 +143,7 @@
         ],
         "gil",
         [
-          "Crossed thrust inside to the face",
+          "Crossed thrust over his sword to the face, inside on his left side",
           "half mandritto to his right leg",
           "right foot steps forward"
         ],
@@ -307,20 +310,24 @@
       "title": "Decima e ultima parte",
       "steps": [
         "pdfa",
-        [
-          "Embellish: into guardia di consentire",
-          "right foot steps back behind the left",
-          "step a right turn, then a left turn",
-          "left foot steps to the side"
-        ],
+        ["Embellish: raise the hands, point low, and yield", "right foot steps back behind the left"],
+        "consentire",
+        ["Right turn: roverso ridoppio", "left foot steps up to the right"],
+        "testar",
+        ["In the same tempo, the sword returns"],
+        "crocer",
+        ["Left turn", "left foot steps out to the left side"],
         "gil",
         [
-          "Crossed thrust inside, false edge to his true",
+          "Crossed thrust to the face, inside toward his right side, false edge on his true",
           "half mandritto to his right leg",
-          "roverso sgualembrato",
-          "right foot steps in behind"
+          "left foot steps across to the left"
         ],
-        ["Fugge e cruove"],
+        [
+          "Roverso sgualembrato to his right side",
+          "fugge e cruove to cover",
+          "right foot steps in behind the left"
+        ],
         "cpdfa",
         ["Brandish the sword", "left foot steps behind the right"],
         "testa",
@@ -332,7 +339,11 @@
         ],
         "piede"
       ],
-      "source": "filmed"
+      "source": "filmed",
+      "marks": {
+        "drop": ["turns"],
+        "add": [["consentire", 3, 5]]
+      }
     }
   ]
 }
