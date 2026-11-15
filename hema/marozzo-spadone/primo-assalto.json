@@ -6,78 +6,24 @@
   "subtitle": "Achille Marozzo, Opera Nova (Bologna, 1536), Book III, chapter 161",
   "refrain": "The closing refrain: roverso fendente into coda longa e alta; gather the left foot and parry in guardia di croce, point to the face; right foot two spans back, rising falso to the hands, settle in porta di ferro alta.",
   "guards": {
-    "testa": [
-      "Guardia di testa",
-      "high"
-    ],
-    "pdfa": [
-      "Porta di ferro alta",
-      "pdf"
-    ],
-    "pdfl": [
-      "Porta di ferro larga",
-      "pdf"
-    ],
-    "pdfs": [
-      "Cinghiara porta di ferro stretta",
-      "pdf"
-    ],
-    "cpdf": [
-      "Cinghiara porta di ferro",
-      "pdf"
-    ],
-    "cpdfa": [
-      "Cinghiara porta di ferro alta",
-      "pdf"
-    ],
-    "cla": [
-      "Coda longa e alta",
-      "high"
-    ],
-    "cld": [
-      "Coda longa e distesa",
-      "high"
-    ],
-    "croce": [
-      "Guardia di croce",
-      "high"
-    ],
-    "faccia": [
-      "Guardia di faccia",
-      "high"
-    ],
-    "gil": [
-      "Guardia d'intrare in largo passo",
-      "intrare"
-    ],
-    "gin": [
-      "Guardia d'intrare (non in largo passo)",
-      "intrare"
-    ],
-    "piede": [
-      "Guardia di piede",
-      "low"
-    ],
-    "spallas": [
-      "Guardia di spalla",
-      "high"
-    ],
-    "faccial": [
-      "Guardia di faccia, left foot forward",
-      "high"
-    ],
-    "pdfst": [
-      "Porta di ferro stretta",
-      "pdf"
-    ],
-    "cpdfl": [
-      "Cinghiara porta di ferro larga",
-      "pdf"
-    ],
-    "beccesa": [
-      "Becca cesa",
-      "high"
-    ]
+    "testa": ["Guardia di testa", "high"],
+    "pdfa": ["Porta di ferro alta", "pdf"],
+    "pdfl": ["Porta di ferro larga", "pdf"],
+    "pdfs": ["Cinghiara porta di ferro stretta", "pdf"],
+    "cpdf": ["Cinghiara porta di ferro", "pdf"],
+    "cpdfa": ["Cinghiara porta di ferro alta", "pdf"],
+    "cla": ["Coda longa e alta", "high"],
+    "cld": ["Coda longa e distesa", "high"],
+    "croce": ["Guardia di croce", "high"],
+    "faccia": ["Guardia di faccia", "high"],
+    "gil": ["Guardia d'intrare in largo passo", "intrare"],
+    "gin": ["Guardia d'intrare (non in largo passo)", "intrare"],
+    "piede": ["Guardia di piede", "low"],
+    "spallas": ["Guardia di spalla", "high"],
+    "faccial": ["Guardia di faccia, left foot forward", "high"],
+    "pdfst": ["Porta di ferro stretta", "pdf"],
+    "cpdfl": ["Cinghiara porta di ferro larga", "pdf"],
+    "beccesa": ["Becca cesa", "high"]
   },
   "parts": [
     {
@@ -85,25 +31,16 @@
       "title": "Prima parte",
       "steps": [
         "testa",
-        [
-          "Feint a falso impuntato outside his sword",
-          "left foot steps"
-        ],
+        ["Feint a falso impuntato outside his sword", "left foot steps"],
         "faccial",
-        [
-          "Mandritto to the head with a tramazzone",
-          "right foot steps"
-        ],
+        ["Mandritto to the head with a tramazzone", "right foot steps"],
         "pdfl",
         [
           "He attacks: parry with the true edge, thrust to his face",
           "right foot steps across in front of the left"
         ],
         "faccia",
-        [
-          "Roverso fendente to the head",
-          "left foot steps to his right side"
-        ],
+        ["Roverso fendente to the head", "left foot steps to his right side"],
         "cla",
         [
           "He attacks again: cross the arms, point to his face",
@@ -118,20 +55,10 @@
       ],
       "source": "filmed",
       "marks": {
-        "drop": [
-          "leadin"
-        ],
+        "drop": ["leadin"],
         "add": [
-          [
-            "fallaci",
-            1,
-            3
-          ],
-          [
-            "parato",
-            7,
-            7
-          ]
+          ["fallaci", 1, 3],
+          ["parato", 7, 7]
         ]
       }
     },
@@ -151,15 +78,9 @@
           "right foot steps to his left side, left foot steps in behind"
         ],
         "pdfst",
-        [
-          "Then a tramazzone",
-          "left foot steps forward"
-        ],
+        ["Then a tramazzone", "left foot steps forward"],
         "cpdf",
-        [
-          "He attacks: parry in croce",
-          "left foot steps up to the right"
-        ],
+        ["He attacks: parry in croce", "left foot steps up to the right"],
         "croce",
         [
           "Rising falso to the hands",
@@ -169,16 +90,8 @@
       ],
       "source": "filmed",
       "marks": {
-        "drop": [
-          "thrust"
-        ],
-        "add": [
-          [
-            "thrust",
-            3,
-            5
-          ]
-        ]
+        "drop": ["thrust"],
+        "add": [["thrust", 3, 5]]
       }
     },
     {
@@ -191,15 +104,9 @@
           "left foot steps up to the right, feet together"
         ],
         "pdfa",
-        [
-          "Mandritto tondo to the legs",
-          "right foot steps strongly forward"
-        ],
+        ["Mandritto tondo to the legs", "right foot steps strongly forward"],
         "pdfl",
-        [
-          "Recover, point to his face",
-          "right foot steps back beside the left"
-        ],
+        ["Recover, point to his face", "right foot steps back beside the left"],
         "faccia",
         [
           "He takes the bait: feign the parry, void",
@@ -207,10 +114,7 @@
           "left foot steps to his right side"
         ],
         "cla",
-        [
-          "Defend",
-          "left foot steps up to the right"
-        ],
+        ["Defend", "left foot steps up to the right"],
         "croce",
         [
           "Rising falso dritto to the hands",
@@ -220,13 +124,7 @@
       ],
       "source": "filmed",
       "marks": {
-        "add": [
-          [
-            "urto",
-            1,
-            3
-          ]
-        ]
+        "add": [["urto", 1, 3]]
       }
     },
     {
@@ -234,10 +132,7 @@
       "title": "Quarta parte",
       "steps": [
         "pdfa",
-        [
-          "Tramazzoncello",
-          "left foot steps to his right side"
-        ],
+        ["Tramazzoncello", "left foot steps to his right side"],
         "pdfs",
         [
           "Thrust in falsata outside, over his sword, to his left temple",
@@ -249,20 +144,12 @@
           "half mandritto to his right leg",
           "right foot steps forward"
         ],
-        [
-          "Parry with the true edge",
-          "right foot steps back beside the left"
-        ],
+        "pdfl",
+        ["Parry with the true edge", "right foot steps back beside the left"],
         "faccia",
-        [
-          "Roverso fendente",
-          "left foot steps to his right side"
-        ],
+        ["Roverso fendente", "left foot steps to his right side"],
         "cla",
-        [
-          "Defend",
-          "left foot steps up to the right"
-        ],
+        ["Defend", "left foot steps up to the right"],
         "croce",
         [
           "Rising falso dritto to the hands",
@@ -290,10 +177,7 @@
           "left foot steps strongly to his right side"
         ],
         "cld",
-        [
-          "Fugge e cruove",
-          "right foot steps back behind the left"
-        ],
+        ["Fugge e cruove", "right foot steps back behind the left"],
         "pdfs",
         [
           "Embellish: right turn (left foot drawn to the right), left turn",
@@ -308,47 +192,30 @@
       "title": "Sesta parte",
       "steps": [
         "gil",
-        [
-          "Falso manco against his sword",
-          "right foot steps strongly forward"
-        ],
+        ["Falso manco against his sword", "right foot steps strongly forward"],
         "beccesa",
         [
           "Feign a tramazzone to his head",
           "left foot steps toward his right side"
         ],
         "testa",
-        [
-          "Let a roverso drop to his leg"
-        ],
+        ["Let a roverso drop to his leg"],
         "cpdfl",
-        [
-          "Carry it through"
-        ],
+        ["Carry it through"],
         "cld",
         [
           "Overhand ponta incrosiata to his face",
           "left foot steps behind the right"
         ],
         "croce",
-        [
-          "Half turn of the hands"
-        ],
+        ["Half turn of the hands"],
         "pdfa"
       ],
       "source": "filmed",
       "marks": {
         "add": [
-          [
-            "vista",
-            5,
-            7
-          ],
-          [
-            "thrust",
-            11,
-            11
-          ]
+          ["vista", 5, 7],
+          ["thrust", 11, 11]
         ]
       }
     },
@@ -362,15 +229,9 @@
           "rising falso dritto to the hands",
           "left foot steps to his right side, then right foot steps to his left side"
         ],
-        [
-          "Tramazzone",
-          "left foot steps to his right side"
-        ],
+        ["Tramazzone", "left foot steps to his right side"],
         "pdfs",
-        [
-          "Falso manco, withdraw the arms",
-          "left foot steps behind the right"
-        ],
+        ["Falso manco, withdraw the arms", "left foot steps behind the right"],
         "pdfa"
       ],
       "source": "filmed"
@@ -385,29 +246,18 @@
           "left foot steps up to the right, feet together"
         ],
         "pdfa",
-        [
-          "Mandritto tondo to the head",
-          "right foot steps strongly forward"
-        ],
+        ["Mandritto tondo to the head", "right foot steps strongly forward"],
         "faccia",
-        [
-          "Mandritto tondo to the leg"
-        ],
+        ["Mandritto tondo to the leg"],
         "pdfl",
         [
           "Tira e intra, arms extended",
           "right foot steps back beside the left"
         ],
         "gin",
-        [
-          "Roverso fendente to the head",
-          "left foot steps to his right side"
-        ],
+        ["Roverso fendente to the head", "left foot steps to his right side"],
         "cla",
-        [
-          "Thrust to the face",
-          "left foot steps up to the right"
-        ],
+        ["Thrust to the face", "left foot steps up to the right"],
         "croce",
         [
           "Rising falso with the leg lifted",
@@ -417,16 +267,8 @@
       ],
       "source": "filmed",
       "marks": {
-        "drop": [
-          "intrare"
-        ],
-        "add": [
-          [
-            "intrare",
-            3,
-            5
-          ]
-        ]
+        "drop": ["intrare"],
+        "add": [["intrare", 3, 5]]
       }
     },
     {
@@ -446,20 +288,11 @@
           "mandritto sgualembrato to the face, tramazzone",
           "right foot steps forward"
         ],
-        [
-          "Parry",
-          "right foot steps back to the left"
-        ],
+        ["Parry", "right foot steps back to the left"],
         "faccia",
-        [
-          "Roverso fendente to the head",
-          "left foot steps to his right side"
-        ],
+        ["Roverso fendente to the head", "left foot steps to his right side"],
         "cla",
-        [
-          "Thrust to the face",
-          "left foot steps up to the right"
-        ],
+        ["Thrust to the face", "left foot steps up to the right"],
         "croce",
         [
           "Rising falso to the hands",
@@ -475,7 +308,8 @@
       "steps": [
         "pdfa",
         [
-          "Embellish via guardia di consentire",
+          "Embellish: into guardia di consentire",
+          "right foot steps back behind the left",
           "step a right turn, then a left turn",
           "left foot steps to the side"
         ],
@@ -486,19 +320,11 @@
           "roverso sgualembrato",
           "right foot steps in behind"
         ],
-        [
-          "Fugge e cruove"
-        ],
+        ["Fugge e cruove"],
         "cpdfa",
-        [
-          "Brandish the sword",
-          "left foot steps behind the right"
-        ],
+        ["Brandish the sword", "left foot steps behind the right"],
         "testa",
-        [
-          "Mandritto",
-          "right foot steps behind the left"
-        ],
+        ["Mandritto", "right foot steps behind the left"],
         "spallas",
         [
           "Right turn, left foot to the right; left turn, great step",
