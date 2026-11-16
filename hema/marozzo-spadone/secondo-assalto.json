@@ -6,6 +6,18 @@
   "subtitle": "Achille Marozzo, Opera Nova (Bologna, 1536), Book III, chapter 163 · parts V–X interpolated from the text",
   "refrain": "There is no single refrain in the second assalto: most parts close by retreating into guardia d'intrare in largo passo or a porta di ferro.",
   "guards": {
+    "ginf": [
+      "Guardia d'intrare (non in largo passo)",
+      "intrare"
+    ],
+    "testaf": [
+      "Guardia di testa",
+      "high"
+    ],
+    "facciau": [
+      "Guardia di faccia",
+      "high"
+    ],
     "testa": [
       "Guardia di testa",
       "high"
@@ -242,9 +254,9 @@
         ],
         [
           "He attacks: parry",
-          "right foot steps to the left"
+          "right foot steps back to the left"
         ],
-        "gin",
+        "ginf",
         [
           "Roverso impuntato, stopping short of croce",
           "left foot steps strongly to his right side"
@@ -302,9 +314,9 @@
         "gil",
         [
           "Embellish: roverso",
-          "left foot steps to the right"
+          "left foot steps back to the right"
         ],
-        "testa",
+        "testaf",
         [
           "In one tempo"
         ],
@@ -333,9 +345,9 @@
         ],
         [
           "Mandritto tondo",
-          "left foot steps to the right, a little crossed"
+          "left foot steps up to the right, a little crossed"
         ],
-        "faccia",
+        "facciau",
         [
           "Left hand at the half sword: force his sword down, roverso to face or neck",
           "left foot steps forward to force his sword down, then steps strongly behind the right as you slice"
@@ -425,9 +437,9 @@
         "pdfst",
         [
           "Raise the sword, left hand strong above",
-          "right foot steps to the left"
+          "right foot steps back to the left"
         ],
-        "gin",
+        "ginf",
         [
           "Feint roverso, mandritto tondo to the leg",
           "left foot steps to his right, right foot steps to his left"
