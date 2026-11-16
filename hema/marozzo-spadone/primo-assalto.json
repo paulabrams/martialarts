@@ -17,7 +17,8 @@
     "croce": ["Guardia di croce", "high"],
     "consentire": ["Hands high, point low", "high"],
     "crocer": ["Guardia di croce", "high"],
-    "testar": ["Guardia di testa", "high"],
+    "testar": ["Guardia di testa in largo passo", "high"],
+    "testal": ["Guardia di testa in largo passo", "high"],
     "crocef": ["Guardia di croce", "high"],
     "facciaf": ["Guardia di faccia", "high"],
     "ginf": ["Guardia d'intrare (non in largo passo)", "intrare"],
@@ -30,7 +31,8 @@
     "faccial": ["Guardia di faccia, left foot forward", "high"],
     "pdfst": ["Porta di ferro stretta", "pdf"],
     "cpdfl": ["Cinghiara porta di ferro larga", "pdf"],
-    "beccesa": ["Becca cesa", "high"]
+    "beccesa": ["Becca cesa", "high"],
+    "becpos": ["Becca possa", "high"]
   },
   "parts": [
     {
@@ -323,17 +325,16 @@
         "pdfa",
         ["Embellish: raise the hands, point low, and yield", "right foot steps back behind the left"],
         "consentire",
-        ["Right turn: roverso ridoppio", "left foot steps back to the right"],
+        ["Right turn: roverso ridoppio"],
         "testar",
-        ["In the same tempo, the sword returns"],
+        ["In the same tempo, the sword returns", "left foot steps back to the right"],
         "crocer",
         ["Left turn", "left foot steps out to the left side"],
         "gil",
-        [
-          "Crossed thrust to the face, inside toward his right side, false edge on his true",
-          "half mandritto to his right leg",
-          "left foot steps across to the left"
-        ],
+        ["Crossed thrust to the face, inside toward his right side, false edge on his true"],
+        "becpos",
+        ["He beats it out: half mandritto to his right leg", "left foot steps across to the left"],
+        "cpdfl",
         [
           "Roverso sgualembrato to his right side",
           "fugge e cruove to cover",

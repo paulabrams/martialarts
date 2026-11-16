@@ -11,7 +11,15 @@
       "intrare"
     ],
     "testaf": [
-      "Guardia di testa",
+      "Guardia di testa in largo passo",
+      "high"
+    ],
+    "testal": [
+      "Guardia di testa in largo passo",
+      "high"
+    ],
+    "crocef": [
+      "Guardia di croce",
       "high"
     ],
     "facciau": [
@@ -313,14 +321,14 @@
       "steps": [
         "gil",
         [
-          "Embellish: roverso",
+          "Embellish: roverso"
+        ],
+        "testal",
+        [
+          "In one tempo",
           "left foot steps back to the right"
         ],
-        "testaf",
-        [
-          "In one tempo"
-        ],
-        "croce",
+        "crocef",
         [
           "Left turn",
           "right foot steps back"
