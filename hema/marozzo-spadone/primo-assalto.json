@@ -2,8 +2,8 @@
   "title": "Primo Assalto di Spada da Due Mani",
   "poster_title": "PRIMO ASSALTO",
   "poster_subtitle": "di spada da due mani",
-  "citation": "Achille Marozzo, Opera Nova · Bologna, 1536 · Libro III, cap. 161",
-  "subtitle": "Achille Marozzo, Opera Nova (Bologna, 1536), Book III, chapter 161",
+  "citation": "Achille Marozzo, Opera Nova · Modena, 1536 · Libro III, cap. 161",
+  "subtitle": "Achille Marozzo, Opera Nova (Modena, 1536), Book III, chapter 161",
   "refrain": "The closing refrain: roverso fendente into coda longa e alta; draw the left foot back to the right and parry in guardia di croce, point to the face; right foot two spans back, rising falso to the hands, settle in porta di ferro alta.",
   "guards": {
     "testa": ["Guardia di testa", "high"],
@@ -28,7 +28,7 @@
     "gin": ["Guardia d'intrare (non in largo passo)", "intrare"],
     "piede": ["Guardia di piede", "low"],
     "spallas": ["Guardia di spalla", "high"],
-    "faccial": ["Guardia di faccia, left foot forward", "high"],
+    "faccial": ["Guardia di faccia in largo passo", "high"],
     "pdfst": ["Porta di ferro stretta", "pdf"],
     "cpdfl": ["Cinghiara porta di ferro larga", "pdf"],
     "beccesa": ["Becca cesa", "high"],
@@ -176,6 +176,7 @@
         ["Tramazzone beating his sword", "left foot steps to his right side"],
         "pdfs",
         ["Thrust in falso over his sword to his face"],
+        "cpdfa",
         ["He beats it: rising roverso ridoppio to the arms", "left foot steps strongly forward"],
         "gil",
         [
@@ -190,7 +191,7 @@
           "left foot steps strongly to his right side"
         ],
         "cld",
-        ["Fugge e cruove", "right foot steps back behind the left"],
+        ["Fugge e cruove"],
         "pdfs",
         [
           "Embellish: right turn (left foot drawn back to the right), left turn",
@@ -335,11 +336,9 @@
         "becpos",
         ["He beats it out: half mandritto to his right leg", "left foot steps across to the left"],
         "cpdfl",
-        [
-          "Roverso sgualembrato to his right side",
-          "fugge e cruove to cover",
-          "right foot steps in behind the left"
-        ],
+        ["Roverso sgualembrato to his right side", "right foot steps in behind the left"],
+        "cld",
+        ["Fugge e cruove to cover"],
         "cpdfa",
         ["Brandish the sword", "left foot steps behind the right"],
         "testa",
