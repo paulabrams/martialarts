@@ -129,12 +129,17 @@
       "n": 2,
       "title": "Seconda parte",
       "source": "filmed",
+      "marks": {
+        "add": [
+          ["pontamandritto", 1, 2]
+        ]
+      },
       "steps": [
         "gil",
         [
           "Mandritto tondo to the leg",
           "rising thrust to his right temple, hands crossed over his sword",
-          "right foot steps forward, off the line to the left, then steps again"
+          "right foot steps forward, left foot steps wide across to the left, right foot steps forward again"
         ],
         [
           "He raises his arms: mandritto tondo to his left temple",
@@ -303,7 +308,7 @@
           "right foot steps to his left side, left foot steps behind a little crossed, right foot steps forward"
         ],
         [
-          "Defend",
+          "The second mandritto tondo enters, for your cover",
           "right foot takes a wide step back"
         ],
         "gil",
@@ -318,6 +323,11 @@
       "n": 7,
       "title": "Settima parte",
       "source": "text",
+      "marks": {
+        "add": [
+          ["pontamandritto", 13, 14]
+        ]
+      },
       "steps": [
         "gil",
         [
@@ -535,7 +545,7 @@
           "steps": [
             "gil",
             [
-              "Falso manco impontato",
+              "Falso manco impuntato",
               "right foot steps strongly forward"
             ],
             [
@@ -571,7 +581,7 @@
           "steps": [
             "gil",
             [
-              "Feint falso manco impontato, feint thrust to his left",
+              "Feint falso manco impuntato, feint thrust to his left",
               "true edge to true edge"
             ],
             [
