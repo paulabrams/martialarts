@@ -20,6 +20,7 @@
     "testar": ["Guardia di testa in largo passo", "high"],
     "testal": ["Guardia di testa in largo passo", "high"],
     "crocef": ["Guardia di croce", "high"],
+    "crocerf": ["Guardia di croce", "high"],
     "facciaf": ["Guardia di faccia", "high"],
     "ginf": ["Guardia d'intrare (non in largo passo)", "intrare"],
     "pdfaf": ["Porta di ferro alta", "pdf"],
@@ -214,25 +215,27 @@
         "pdfa",
         [
           "Feign a tramazzone to his head",
+          "then let a roverso drop to his leg",
           "left foot steps toward his right side"
         ],
-        "testa",
-        ["Let a roverso drop to his leg"],
         "cpdfl",
         ["Carry it through"],
         "cld",
         [
-          "Overhand thrust to his face",
+          "Overhand crossed thrust to his face",
           "left foot steps behind the right"
         ],
-        "croce",
-        ["Half turn of the hands"],
+        "crocerf",
+        [
+          "Half turn of the hands",
+          "continue to push forward"
+        ],
         "pdfa"
       ],
       "source": "filmed",
       "marks": {
         "add": [
-          ["vista", 5, 7]
+          ["vista", 3, 5]
         ]
       }
     },
