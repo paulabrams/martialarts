@@ -222,7 +222,7 @@
         ["Carry it through"],
         "cld",
         [
-          "Overhand ponta incrosiata to his face",
+          "Overhand thrust to his face",
           "left foot steps behind the right"
         ],
         "croce",
@@ -232,8 +232,7 @@
       "source": "filmed",
       "marks": {
         "add": [
-          ["vista", 5, 7],
-          ["thrust", 11, 11]
+          ["vista", 5, 7]
         ]
       }
     },
