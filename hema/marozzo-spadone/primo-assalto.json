@@ -20,7 +20,7 @@
     "testar": ["Guardia di testa in largo passo", "high"],
     "testal": ["Guardia di testa in largo passo", "high"],
     "crocef": ["Guardia di croce", "high"],
-    "crocerf": ["Guardia di croce", "high"],
+    "crocerf": ["Guardia di croce (non in largo passo)", "high"],
     "facciaf": ["Guardia di faccia", "high"],
     "ginf": ["Guardia d'intrare (non in largo passo)", "intrare"],
     "pdfaf": ["Porta di ferro alta", "pdf"],
